@@ -5,3 +5,7 @@ h1 {
 p {
     font-size: 2rem;
 }
+
+footer p {
+    background-color: aqua;
+}
